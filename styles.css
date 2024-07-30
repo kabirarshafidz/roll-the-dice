@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  height: 80vh;
+  background-color: #a62317;
+  color: #eeeeee;
+  font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  border-radius: 12.5%;
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+p {
+  font-size: 2rem;
+}
